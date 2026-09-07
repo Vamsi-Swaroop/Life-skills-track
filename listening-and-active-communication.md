@@ -61,6 +61,6 @@ Some cases where we can use passive-aggressive communication are:
 * When we are treated unfairly.
 * If we are in a flow of conversation and someone tries to interrupt in the middle with silly points.
 
-## How can you make your communication assertive? You can watch and analyse the videos, then think what would be a few steps you can apply in your own life? (Watch the videos first before answering this question.)
+## How can you make your communication assertive?
 
 Assertive communication refers to respecting others' values but not at the cost of demeaning ourselves or our needs. Being kind and gentle, but not in return for disrespect or hate. Giving attention but not accepting recklessness from the other end. It holds space for both people's dignity at once, rather than sacrificing one for the other.
