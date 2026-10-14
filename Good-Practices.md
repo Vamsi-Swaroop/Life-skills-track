@@ -15,11 +15,11 @@ Which point(s) were new to you?
 Which area do you think you need to improve on? What are your ideas to make progress in that area?
 
 Some of my ideas are:
-    * Use focus mode on the working machine and Do not disturb mode in mobile while working.
-    * Being available all the time on phone or teams or any other app.
-    * Once you try to reach the person on one medium and if you do not get reply, try using another medium.
+    - Use focus mode on the working machine and Do not disturb mode in mobile while working.
+    - Being available all the time on phone or teams or any other app.
+    - Once you try to reach the person on one medium and if you do not get reply, try using another medium.
 
 Things I think I should improve:
-    * Using tools like codepen to improve code.
-    * Using main channels/groups as a primary mean of communication.
-    * Usage of deepwork more extensively.
+    - Using tools like codepen to improve code.
+    - Using main channels/groups as a primary mean of communication.
+    - Usage of deepwork more extensively.
